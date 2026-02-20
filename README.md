@@ -56,12 +56,6 @@ Which gender places more orders
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-## Dashboard
-
-![Screenshot (495)](src="https://github.com/user-attachments/assets/c502c2f4-42bb-4620-be04-dc6ad8765367" />
-)
-
-
 ## Project Insight
 -  Overall Performance Metrics
 Total Sales: ₹ 5,187,520.10
