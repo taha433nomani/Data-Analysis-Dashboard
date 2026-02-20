@@ -48,8 +48,6 @@ Which gender places more orders
  Highest order volume
  This helps determine core business drivers.
 
-- Dashboard Interaction <a href="https://github.com/taha433nomani/Data-Analysis-Dashboard/blob/main/Sales_Dashboard.png">View Dashboard</a>
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
