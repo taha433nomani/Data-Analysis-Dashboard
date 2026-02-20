@@ -8,21 +8,21 @@ The Walmart Store wants to create an annual sales report for 2022. So that, the 
 ## Questions (KPIs)
 - Key Performance Indicators (KPIs)
 As part of the Sales Performance Analysis project, the following business questions were analyzed using Excel Pivot Tables, Charts, and Dashboard tools:
-- 1. Sales vs Orders Comparison
+-  Sales vs Orders Comparison
 A combined chart was created to compare Total Sales Amount and Total Number of Orders in a single visualization.
 This helps identify whether revenue growth is driven by higher order volume or increased order value.
 
-- 2. Monthly Sales & Order Trends
+-  Monthly Sales & Order Trends
 Identified the month with the highest sales revenue
 Identified the month with the maximum number of orders
 Analyzed monthly performance trends to understand seasonal demand patterns
 
-- 3. Customer Purchase Analysis (Gender-Based)
+-  Customer Purchase Analysis (Gender-Based)
 Analyzed order distribution between Male and Female customers to determine:
 Which gender contributes more to total sales
 Which gender places more orders
 
-- 4. Order Status Analysis (2022)
+-  Order Status Analysis (2022)
  Examined different order statuses such as:
  Delivered
  Cancelled
@@ -30,19 +30,19 @@ Which gender places more orders
  Pending
  This analysis helps evaluate operational efficiency and fulfillment performance.
 
-- 5. Top 10 States by Sales Contribution
+-  Top 10 States by Sales Contribution
  Identified the Top 10 states contributing the highest sales revenue using PivotTables.
  This helps determine high-performing geographical markets.
 
-- 6. Age & Gender Relationship (Order Analysis)
+-  Age & Gender Relationship (Order Analysis)
  Analyzed the relationship between customer age group and gender based on number of orders placed.
  This helps identify the most active demographic segments.
 
-- 7. Sales Channel Performance
+-  Sales Channel Performance
  Evaluated which sales channel (Online, Offline, etc.) contributes the maximum revenue.
  This insight supports channel optimization strategies.
 
-- 8. Highest Selling Product Category
+-  Highest Selling Product Category
  Identified the product category generating:
  Maximum revenue
  Highest order volume
@@ -62,42 +62,42 @@ Which gender places more orders
 )
 
 ## Project Insight
-- 1. Overall Performance Metrics
+-  Overall Performance Metrics
 Total Sales: ₹ 5,187,520.10
 Average Profit per Order: ₹ 504.25
 The company maintains strong revenue performance with a stable average profit margin.
 
-- 2. Most Popular Product Category
+-  Most Popular Product Category
 From the category comparison chart:
 Furniture is the highest selling category (705 orders).
 Followed by Electronics (671 orders).
 Office Supplies (624 orders) ranks third.
 Furniture is the primary revenue-driving product category.
 
-- 3. Regional Sales Performance
+-  Regional Sales Performance
 Region with Highest Sales:
 North Region generates the highest total revenue.
 Followed by East, South, and West.
 The North region is the strongest performing geographical market.
 
-- 4. Sales Distribution by Region & Category
+-  Sales Distribution by Region & Category
 Furniture performs strongly across all regions.
 The North region shows particularly high contribution across multiple categories.
  Regional-category combination analysis helps identify expansion opportunities.
 
- - 5. Sales by Customer Segment
+ -  Sales by Customer Segment
 From the customer segment pie chart:
 Consumer Segment contributes the highest revenue.
 Followed by Corporate Segment.
 Small Business Segment contributes comparatively lower but still significant revenue.
 The Consumer segment is the core customer base for the company.
 
-- 6. Highest Revenue by Segment
+-  Highest Revenue by Segment
 Consumer segment shows the highest total sales value.
 Corporate and Small Business segments follow closely.
 Individual consumers are the major revenue drivers compared to business clients.
 
-- 7. Quarterly Sales Trends
+-  Quarterly Sales Trends
 From the quarterly trend chart:
 Sales remained relatively stable across all quarters.
 Slight fluctuations are observed but no major decline.
