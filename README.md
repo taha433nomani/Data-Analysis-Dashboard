@@ -58,8 +58,9 @@ Which gender places more orders
 
 ## Dashboard
 
-![Screenshot (495)](<img width="1034" height="538" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/5ec39fbd-7141-45d5-99c6-88fa954686a1" />
+![Screenshot (495)](src="https://github.com/user-attachments/assets/c502c2f4-42bb-4620-be04-dc6ad8765367" />
 )
+
 
 ## Project Insight
 -  Overall Performance Metrics
